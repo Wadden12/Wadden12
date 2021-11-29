@@ -5,7 +5,7 @@
 - 📫 How to reach me ...michaelwadden12@gmail.com
 - My Name is Mike Wadden
 - Before switching to a tech career i was a operations manager for 10 years.
-- While i did enjoy working on efficiency. Software development is where my passion is. 
+- While i did enjoy working on efficiency and buisness operations. Software development is where my passion is. 
 - I Have a buisness degree from Memorial Unverisity of Newfoundland.
 
 <!---
